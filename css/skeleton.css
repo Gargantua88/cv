@@ -148,9 +148,11 @@ body {
 .german.scale {
   margin-left: 9px;}
 .title-photo {
-margin-right: 5px;
-margin-top: 5px;
-margin-bottom: 5px;}
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;}
+.title-header {
+  padding-top: 15px;}
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */

@@ -132,19 +132,23 @@ body {
 .contacts.color {
   background-color:#f1f1f1;}
 .ruby.scale {
-  margin-left: 10px;}
+  margin-left: 26px;}
 .ror.scale {
-  margin-left: 13px;}
+  margin-left: 29px;}
 .css.scale {
-  margin-left: 14px;}
+  margin-left: 30px;}
 .html.scale {
-  margin-left: 5px;}
+  margin-left: 21px;}
 .sql.scale {
-  margin-left: 12px;}
+  margin-left: 28px;}
 .linux.scale {
-  margin-left: 6px;}
+  margin-left: 22px;}
 .js.scale {
-  margin-left: 24px;}
+  margin-left: 40px;}
+.devops.scale {
+  margin-left: 11px;}
+.english.scale {
+  margin-left: 12px;}
 .german.scale {
   margin-left: 9px;}
 .title-photo {
